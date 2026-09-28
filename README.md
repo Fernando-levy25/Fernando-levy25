@@ -55,7 +55,7 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levy__fl/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color=6A0DAD)](mailto:Fernandolevy25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-levy250107)
 
 <!-- Portfolio -->
