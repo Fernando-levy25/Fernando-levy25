@@ -6,32 +6,39 @@
 
 <!-- Apresentação -->
 
+<!-- Presentation -->
+
 <p>
-  Olá, eu sou Fernando! Estudante de Sistemas de Computação no Brasil, apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
+  Olá 👋, eu sou Fernando Levy! Sou estudante de Sistemas de Computação na UESPI e apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
 
-* 🎓 Atualmente curso Sistemas de Computação na UESPI, buscando ampliar constantemente meus conhecimentos na área de tecnologia.
+* 🎓 Atualmente, venho desenvolvendo meus conhecimentos em programação e desenvolvimento web, trabalhando com JavaScript, HTML, CSS e Python, enquanto continuo explorando novas tecnologias e conceitos da área de computação.
 
-* 🎨 Tenho interesse em UI/UX Design e no desenvolvimento de experiências digitais que sejam funcionais, intuitivas e visualmente bem construídas.
+* 🎨 Também tenho interesse em UI/UX Design e desenvolvimento de interfaces, utilizando ferramentas como Figma para transformar ideias em experiências digitais mais intuitivas e funcionais.
 
-* 🚀 Estou em constante aprendizado, explorando diferentes áreas da computação e desenvolvendo projetos para transformar ideias em soluções reais.
+* 🛠️ No meu processo de aprendizado, também estou explorando tecnologias como Go, React e Tailwind CSS, além de utilizar ferramentas como VS Code e Figma no desenvolvimento dos meus projetos.
+
+* 🚀 Estou constantemente criando projetos, estudando novas tecnologias e buscando transformar conhecimentos em soluções para problemas reais. Atualmente, busco minha primeira oportunidade de estágio na área de tecnologia, onde possa aprender, contribuir e crescer profissionalmente.
 
 </p>
 
 
-
-
 <!-- Dropdown -->
+
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 19 anos e sou estudante de Sistemas de Computação na UESPI. Sou apaixonado por tecnologia, desenvolvimento de software, UI/UX Design e pela criação de soluções para problemas reais. Estou sempre buscando aprender novas tecnologias e ampliar meus conhecimentos na área.
+* 🔄 Minha trajetória na tecnologia começou após minha formação técnica em Construção Naval pelo IFCE. Hoje, curso Sistemas de Computação na UESPI, em Parnaíba, e venho construindo uma nova trajetória profissional na área de tecnologia.
 
-  - 🎨 Tenho grande interesse por design e experiência do usuário, buscando unir criatividade, tecnologia e usabilidade na criação de produtos digitais. Também gosto de trabalhar em equipe, compartilhar ideias e participar de projetos que me desafiem a evoluir.
+* 🎓 Além da graduação, concluí minha formação em UI/UX Design pela DIO e participei do DIO Campus Expert #16, com apoio do Santander. Atualmente, também atuo como Embaixador Universitário da DIO, compartilhando conteúdos e oportunidades de aprendizado em tecnologia com a comunidade acadêmica.
 
-  - ⚡ No meu tempo livre, gosto de jogar, acompanhar filmes e séries, explorar novas tecnologias e desenvolver projetos pessoais. Acredito que experiências fora da área de estudo também contribuem para a criatividade, visão de mundo e capacidade de resolver problemas. 
+* 🏆 Participei da Super Liga X (Xskills), uma competição que envolveu estratégia, gestão e tomada de decisões. Minha equipe, formada por estudantes que estavam iniciando a graduação em Computação, recebeu menção honrosa pela participação. Foi uma experiência que fortaleceu principalmente minha comunicação, colaboração e capacidade de trabalhar com prazos.
+
+* 🤖 Tenho explorado o uso de ferramentas de inteligência artificial como parte do meu processo de desenvolvimento e aprendizado, buscando entender como novas tecnologias podem tornar a criação de soluções mais eficiente.
+
+* 🚀 Atualmente, também participo de um projeto de pesquisa e inovação relacionado à gestão de transporte universitário, contribuindo para a construção de uma solução tecnológica para um problema real. Gosto especialmente de projetos que me permitem entender o problema, pensar na solução e transformar essa ideia em algo funcional.
+
 </details>
 
-<p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Fernando-levy25&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=6A0DAD&text_color=ffffff&icon_color=6A0DAD&border_color=6A0DAD&ring_color=6A0DAD" />
   <img align="left" alt="Top Langs" height="200"
