@@ -56,7 +56,7 @@
 <br/>
 
 <p akign="left">
-<img  <img width="383" height="220" alt="Explosion Fireworks GIF by Xbox" src="https://github.com/user-attachments/assets/7ec06ad2-5573-4dff-a039-d71bdb573d74" />
+<img  <img width="500" height="283" alt="Blastoise GIF by Pokémon" src="https://github.com/user-attachments/assets/1c42aa6f-ede9-4e99-83f3-55f3155b3499" />
 
 <!-- Links -->
 
