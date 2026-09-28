@@ -7,7 +7,7 @@
 <!-- Apresentação -->
 
 <p>
-  Olá 👋, eu sou Fernando! Estudante de Sistemas de Computação no Brasil, apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
+  Olá, eu sou Fernando! Estudante de Sistemas de Computação no Brasil, apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
 
 * 🎓 Atualmente curso Sistemas de Computação na UESPI, buscando ampliar constantemente meus conhecimentos na área de tecnologia.
 
@@ -48,16 +48,19 @@
 <br/>
 <br/>
 
+<p akign="left">
+<img  <img width="383" height="220" alt="Explosion Fireworks GIF by Xbox" src="https://github.com/user-attachments/assets/7ec06ad2-5573-4dff-a039-d71bdb573d74" />
+
 <!-- Links -->
+
+<h3 align="left">Conecte-se comigo!</h3>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levy__fl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-levy250107)
 
 <!-- Portfolio -->
 ## Portfolio:
 - [Fish Track](https://github.com/Fernando-levy25/Fish-Track)
----
-<p akign="left">
-<img  <img width="533" height="300" alt="Explosion Fireworks GIF by Xbox" src="https://github.com/user-attachments/assets/7ec06ad2-5573-4dff-a039-d71bdb573d74" />
 
 
 ## 🔥 Skills
